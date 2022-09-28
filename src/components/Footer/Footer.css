@@ -1,0 +1,39 @@
+.footer__body{
+   position: absolute;
+   width: 1560px;
+   height: 83px;
+   margin: 4390px 0px 0px 0px;
+   background: #203E86;
+}
+.footer__logo{
+   position: absolute;
+   width: 26.92px;
+   height: 32.63px;
+   margin: 25px 0px 0px 44px;
+}
+.footer__title{
+   position: absolute;
+   width: 118px;
+   height: 19px;
+   margin: 36px 0px 0px 91px;
+   font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 600;
+   font-size: 16px;
+   line-height: 19px;
+   color: #FFFFFF;
+}
+.footer__text{
+   position: absolute;
+   width: 165px;
+   height: 19px;
+   margin: 35px 0px 0px 1300px;
+   font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 600;
+   font-size: 16px;
+   line-height: 19px;
+   color: #FFFFFF;
+   white-space: nowrap;
+}
+ 

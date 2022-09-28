@@ -1,0 +1,76 @@
+.clients__title{
+   position: absolute;
+   width: 157px;
+   height: 96px;
+   left: 1017px;
+   top: 1067px;
+   font-family: 'Sensei';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 80px;
+   line-height: 96px;
+   color: #0084C0;
+}
+.clients__text{
+   position: absolute;
+   width: 276px;
+   height: 72px;
+   left: 969px;
+   top: 1203px;   
+   font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 600;
+   font-size: 24px;
+   line-height: 36px;
+   text-align: center;
+   color: #4F4F4F;
+}
+.clients__image{
+   position: absolute;
+   z-index: 5;
+   width: 539px;
+   height: 477px;
+   margin: 942px 0px 0px 122px;
+}
+.clients__ellipse1{
+   position: absolute;
+   z-index: -1;
+   width: 654px;
+   height: 652px;
+   margin: 897.14px 0px 0px 0px;
+}
+.clients__ellipse2{
+   position: absolute;
+   z-index: -1;
+   width: 353px;
+   height: 429px;
+   margin: 1214px 0px 0px 1204px;
+}
+.clients__ellipse3{
+   position: absolute;
+   z-index: -1;
+   width: 168.44px;
+   height: 168.44px;
+   margin: 1056px 0px 0px 1089px;
+}
+.clients__ellipse4{
+   position: absolute;
+   z-index: -1;
+   width: 40px;
+   height: 40px;
+   margin: 1286px 0px 0px 993px;
+}
+.clients__ellipse5{
+   position: absolute;
+   z-index: -1;
+   width: 90.95px;
+   height: 90.95px;
+   margin: 1161px 0px 0px 909px;
+}
+.clients__ellipse6{
+   position: absolute;
+   width: 46px;
+   height: 46px;
+   margin: 1423px 0px 0px 939px;
+}
+
