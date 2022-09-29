@@ -1,14 +1,8 @@
 .service__body {
-  position: absolute;
-  width: 1098.88px;
-  height: 448px;
-  margin: 1612px 0px 0px 184px;
+  /* position: absolute; */
  }
 .service__title{
-  position: absolute;
-  width: 628px;
-  height: 58px;
-  margin: 10px 0px 0px 343px;
+  /* position: absolute; */
   font-family: 'Sensei';
   font-style: normal;
   font-weight: 400;
@@ -19,7 +13,6 @@
 .service__row{
   display: flex;
   margin: 0px -15px;
-  
  }
 .service__column{
   flex: 0 0 35%;
@@ -27,8 +20,6 @@
  }
  .item-service__text{
   position: relative;
-  width: 178px;
-  height: 28px;
   margin: 36px 0px 0px 120px;
   font-family: 'Roboto';
   font-style: normal;
